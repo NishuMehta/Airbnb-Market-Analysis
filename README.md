@@ -35,20 +35,20 @@ This project explores Airbnb listing data to uncover trends in pricing, availabi
 
 ## File Structure
 
-Airbnb-Market-Analysis/
-│
-├── dashboard/
-│ ├── Dashboard.twb # Tableau workbook
-│ └── Dashboard.png # Dashboard image
-│
-├── data/
-│ ├── airbnb_listings.csv # Raw dataset
-│ └── airbnb_cleaned.xlsx # Cleaned data used for Tableau
-│
-├── notebooks/
-│ └── airbnb_data_analysis.ipynb # Python EDA notebook
-│
-└── README.md
+Airbnb-Market-Analysis/  
+│  
+├── dashboard/  
+│ ├── Dashboard.twb # Tableau workbook  
+│ └── Dashboard.png # Dashboard image  
+│  
+├── data/  
+│ ├── airbnb_listings.csv # Raw dataset  
+│ └── airbnb_cleaned.xlsx # Cleaned data used for Tableau  
+│  
+├── notebooks/  
+│ └── airbnb_data_analysis.ipynb # Python EDA notebook  
+│  
+└── README.md  
 
 ---
 
