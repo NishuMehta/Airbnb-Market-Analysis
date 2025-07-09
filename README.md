@@ -1,5 +1,5 @@
 # Airbnb Market Analysis  
-This project explores Airbnb listing data to uncover trends in pricing, availability, and location across cities using Python, Tableau, and Excel.
+This project explores Airbnb listing data to uncover trends in pricing, availability, and location across cities using Python, Power BI, and Excel.
 
 ---
 
@@ -17,7 +17,7 @@ This project explores Airbnb listing data to uncover trends in pricing, availabi
 | Python                     | Data cleaning, EDA (.ipynb file)     |
 | Pandas, Seaborn, Matplotlib| EDA and visual analysis              |
 | Excel                      | Data checks and formatting           |
-| Tableau                    | Interactive dashboard creation       |
+| Power BI                   | Interactive dashboard creation       |
 
 ---
 
@@ -38,7 +38,7 @@ This project explores Airbnb listing data to uncover trends in pricing, availabi
 Airbnb-Market-Analysis/  
 │  
 ├── dashboard/  
-│ ├── Dashboard.twb # Tableau workbook  
+│ ├── Dashboard.pbix # Tableau workbook  
 │ └── Dashboard.png # Dashboard image  
 │  
 ├── data/  
@@ -55,7 +55,7 @@ Airbnb-Market-Analysis/
 ## What I Learned
 - Performing deep exploratory analysis on location-based datasets  
 - Identifying key pricing and availability patterns in Airbnb listings  
-- Using Tableau for building spatial and categorical dashboards  
+- Using Power BI for building spatial and categorical dashboards  
 - Structuring end-to-end data projects professionally  
 
 ---
